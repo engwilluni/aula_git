@@ -45,6 +45,9 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
+// Criando variaveis
+uint8_t variavel1 = 0;
+uint16_t variavel2 = 0;
 
 /* USER CODE END PV */
 
