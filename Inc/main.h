@@ -32,7 +32,7 @@ extern "C" {
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+uint8_t variavel3 = 0;
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/

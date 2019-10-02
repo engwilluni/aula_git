@@ -54,7 +54,7 @@ uint16_t variavel2 = 0;
 /* Private function prototypes -----------------------------------------------*/
 void SystemClock_Config(void);
 /* USER CODE BEGIN PFP */
-
+void funcao1(void);
 /* USER CODE END PFP */
 
 /* Private user code ---------------------------------------------------------*/
